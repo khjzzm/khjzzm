@@ -8,7 +8,7 @@ github khjzzm readme
 
 ## 회사경력
 - **[여보야](http://www.yeoboyacorp.com/2021/main.html)** - Web Developer *(Aug 2020 ~ PRESENT)*
-- **[Linkhub](https://www.linkhub.co.kr/)** - Backend Rest API Dev *(Dec 2018 ~ Jun 2020)*
+- **[Linkhub](https://www.linkhub.co.kr/)** - Backend Api SDK Dev *(Dec 2017 ~ Jun 2020)*
 
 
 ## 사용기술
