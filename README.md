@@ -20,3 +20,4 @@ github khjzzm readme
 
 ### Frontend
 - React
+- Next.js
