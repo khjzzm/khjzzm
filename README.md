@@ -23,3 +23,4 @@ github khjzzm readme
 - Next.js
 
 ### Automator
+- Python(PyQt5)
