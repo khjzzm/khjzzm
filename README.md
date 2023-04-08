@@ -25,4 +25,6 @@ github khjzzm readme
 ### Automator
 - Python(PyQt5)
 
+## Wanted
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khjzzm"/>
