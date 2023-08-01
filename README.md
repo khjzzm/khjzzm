@@ -18,6 +18,7 @@ github khjzzm readme
 ### Backend
 - Spring 
 - Spring Boot
+- Spring Security
 
 ### Frontend
 - React
