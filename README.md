@@ -19,7 +19,6 @@ github khjzzm readme
 - Spring 
 - Spring Boot
 - Spring Security
-
 ### Frontend
 - React
 - Next.js
