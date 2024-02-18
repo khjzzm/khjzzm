@@ -30,5 +30,3 @@ github khjzzm readme
 ## Wanted
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khjzzm"/>
-
-vi vi vi vi !
