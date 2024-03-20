@@ -7,6 +7,7 @@ github khjzzm readme
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=VIM&logoColor=fff)
 ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ---
 
 ## 회사경력
