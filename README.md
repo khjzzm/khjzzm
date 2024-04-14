@@ -32,5 +32,6 @@ github khjzzm readme
 - Python(PyQt5)
 
 ## Wanted
-
+- SwiftUI
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khjzzm"/>
