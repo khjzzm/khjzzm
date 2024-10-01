@@ -33,9 +33,6 @@ github khjzzm readme
 
 ### Automator
 - Python(PyQt5)
-
-## Wanted
-- SwiftUI
   
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khjzzm&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
