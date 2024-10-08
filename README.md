@@ -30,7 +30,6 @@ github khjzzm readme
 - GitHub Actions
 ### Editor
 - Vim
-
 ### Automator
 - Python(PyQt5)
   
