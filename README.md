@@ -19,6 +19,7 @@ github khjzzm readme
 ## 사용기술
 
 ### Backend
+- Java
 - Spring 
 - Spring Boot
 - Spring Security
