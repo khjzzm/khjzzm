@@ -39,3 +39,4 @@ github khjzzm readme
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khjzzm&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khjzzm&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">    
 </div>
+カーテンコール
