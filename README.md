@@ -11,7 +11,7 @@ github khjzzm readme
 ---
 
 ## 회사경력
-- **[여보야](http://www.yeoboyacorp.com/2021/main.html)** - Web Developer *(Aug 2019 ~ PRESENT)*
+- **[여보야](http://www.yeoboyacorp.com/2021/main.html)** - Web Developer *(Aug 2019 ~ Oct 2026)*
   - https://www.dallalive.com/
   - https://live.club5678.com/
 - **[Linkhub](https://www.linkhub.co.kr/)** - Backend Api SDK Dev *(Dec 2017 ~ Jun 2019)*
