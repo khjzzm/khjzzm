@@ -1,48 +1,20 @@
-github khjzzm readme
+<p align="center">
+  <b>Developer · DevOps</b><br/>
+  <sub>努力と忍耐が必要</sub>
+</p>
 
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=VIM&logoColor=fff)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=fff)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=fff)
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+</p>
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-## 회사경력
-- **[여보야](http://www.yeoboyacorp.com/2021/main.html)** - Web Developer *(Aug 2019 ~ Oct 2026)*
-  - https://www.dallalive.com/
-  - https://live.club5678.com/
-- **[Linkhub](https://www.linkhub.co.kr/)** - Backend Api SDK Dev *(Dec 2017 ~ Jun 2019)*
-  - https://developers.popbill.com/
-
-## 사용기술
-
-### Backend
-- Java
-- Spring 
-- Spring Boot
-- Spring Security
-- Spring Data
-### Frontend
-- React
-- Next.js
-### CI/CD
-- GitHub Actions
-- Docker
-### Editor
-- Vim
-### Automator
-- Python(PyQt5)
-  
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khjzzm&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khjzzm&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khjzzm&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">    
-</div>
+- **[k]()** — Developer & DevOps *(Oct 2025 ~ Present)*
+- **[Yeoboya](https://www.yeoboyacorp.com/)** — Web Developer *(Aug 2019 ~ Oct 2025 · 6 yrs 2 mos)*
+- **[Linkhub](https://www.linkhub.co.kr/)** — Backend API SDK Dev *(Dec 2017 ~ Jun 2019 · 1 yr 6 mos)*
