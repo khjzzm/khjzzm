@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <br/>
+  <img src="https://wakatime.com/badge/user/4630e5a1-c654-4d61-93bd-ae082aa4f08b.svg"/>
 </p>
 
 - **[k]()** — Developer & DevOps *(Oct 2025 ~ Present)*
